@@ -286,7 +286,7 @@ img {
   background-repeat: no-repeat;
   background-position: center;
 
-  border: none;
+  border-radius: 2px;
 }
 
 .input-check:checked + .check-text::before {
